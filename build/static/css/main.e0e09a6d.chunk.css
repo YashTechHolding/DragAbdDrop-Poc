@@ -1,0 +1,2 @@
+body *,bofy,html,html *{margin:0;box-sizing:border-box}.App{font-family:sans-serif;text-align:center}.App,.board{padding:.5em}.board{height:90vh;width:100%;margin-bottom:40px}.column{height:100%;width:25%;padding:.5em;margin:1em;float:left;border:1px solid #333;overflow-y:hidden}.column-content{height:100%;overflow-y:scroll}.column-title{margin-bottom:1em}.card,.column-title{display:flex;justify-content:center;align-items:center}.card{height:15%;width:100%;margin:.4em 0;background-color:#ddd;border:1px solid #333}
+/*# sourceMappingURL=main.e0e09a6d.chunk.css.map */
